@@ -1,0 +1,33 @@
+.container{
+    display: flex;
+  
+}
+
+.main{
+    margin: auto;
+    align-items: center;
+    background-color:  cadetblue;
+    border: 10px solid rgb(101, 191, 194);
+    border-radius: 20px;
+    color: rgb(17, 65, 67);
+    transform: ;
+    
+}
+
+button{
+    width: 70px;
+    height: 50px;
+    border-radius: 20px;
+    background-color: rgb(6, 69, 72);
+    color: rgb(255, 255, 255);
+    border: 10px solid rgb(31, 70, 72);
+    font-weight: 500;
+    margin:10px;
+    justify-items: center;
+
+}
+h2 {
+    margin-left: 10px;
+    margin-right: 10px;
+    border: 6px solid rgb(85, 139, 141);
+}
